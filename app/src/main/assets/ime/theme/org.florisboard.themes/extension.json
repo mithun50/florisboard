@@ -44,6 +44,12 @@
       "label": "Floris Pure Night (Borderless)",
       "authors": [ "serebit" ],
       "isNight": true
+    },
+    {
+      "id": "kannada_custom",
+      "label": "Kannada Custom (Noto Sans)",
+      "authors": [ "FlorisBoard Community" ],
+      "isNight": false
     }
   ]
 }
